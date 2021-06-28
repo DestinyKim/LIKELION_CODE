@@ -1,0 +1,2 @@
+- Pandas 기본
+- 실제 DataSet의 전처리를 통해 Pandas 전처리를 이해
