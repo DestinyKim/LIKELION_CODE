@@ -1,0 +1,10 @@
+Today
+- bike sharing demand
+
+ToDo
+- 팀별 프로젝트
+  L사 코드 공부하기 
+  데이터 시각화 해보기
+
+- 크롤링 관련하여 다시 개념잡기
+  N사 주식 Top 종목 실습
