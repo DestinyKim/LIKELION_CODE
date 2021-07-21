@@ -1,0 +1,13 @@
+Today
+[학습 목표]
+	- 머신러닝의 피처 생성을 통해 기능을 개선해본다.
+[학습 내용]
+===== ===== ===== ===== =====
+[자료 위치] 07_머신러닝_기본다지기 -
+code : https://github.com/LDJWJ/ML_Basic_Class
+### 머신러닝 - 대회 베이스라인 만들기
+https://ldjwj.github.io/ML_Basic_Class/part03_ml/part03_pro_kaggle/dacon_07_feature_engineering_01.html
+ 
+
+ToDo
+- 베이스 라인 완료하기
