@@ -1,0 +1,17 @@
+Today
+[학습 내용]
+===== ===== ===== ===== =====
+ppt
+https://drive.google.com/drive/folders/19qPG2qUAZCdeyKe6I-4nZDm2r0eUnEgQ?usp=sharing
+[자료 위치] 머신러닝 - 데이터 전처리
+code : https://github.com/LDJWJ/ML_Basic_Class
+[자료 위치] 머신러닝 - 원핫 인코딩 1,2,3
+https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch04_01_01_FE_OneHotEncoding_01.html
+https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch04_01_02_FE_OneHotEncoding_02.html
+...
+[자료 위치] 머신러닝 - 평가지표 1,2
+https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch05_03_01_model_validation(1).html
+https://ldjwj.github.io/ML_Basic_Class/part03_ml/ch05_03_02_model_validation(2)_threshold.html
+ 
+ToDo
+- 증권분석 강의 듣기 및 복습
