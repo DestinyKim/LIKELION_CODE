@@ -1,0 +1,8 @@
+Today
+- 실습파일(참조 파일)
+  https://drive.google.com/drive/folders/1N_nDekZvT-wTYk0DmKqoYgZo3BIdLjY_?usp=sharing
+- Kaggle > House prices: Lasso, XGBoost, and a detailed EDA 발표
+ 
+ToDo
+- 증권분석 강의 듣기 및 복습
+- Dacon 코드 Notion에 정리
