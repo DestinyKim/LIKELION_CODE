@@ -1,0 +1,5 @@
+Today
+- Dacon 코드 Notion에 복습 및 정리
+ 
+ToDo
+- 증권 분석 시각화
