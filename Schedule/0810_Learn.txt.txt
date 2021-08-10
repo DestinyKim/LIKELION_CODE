@@ -1,0 +1,23 @@
+Today
+[학습 목표]
+- 딥러닝에 대해 기본 소개하고 간단한 실습을 통해 알아본다.
+- Titanic 데이터 셋에 대해 딥러닝 실습을 통해 알아본다.
+- MNIST 데이터 셋에 대해 딥러닝 실습을 통해 알아본다.
+[학습 내용]
+===== ===== ===== ===== =====
+■ 지난 시간 리뷰
+■ 딥러닝 기본 알고리즘을 소개한다.
+■ 실습을 통해 신경망 알고리즘을 실습해 본다.
+[자료 위치]
+구글 드라이브 - 10_딥러닝입문 - unit03_dl_bike_titanic
+구글 드라이브 - 10_딥러닝입문 - unit03_dl_mnist
+- Titanic 실습
+https://ldjwj.github.io/DL_Basic/part04_01_dl_start/ch01_03_Neural_Net_Titanic.html
+- 딥러닝 알고리즘
+https://ldjwj.github.io/DL_Basic/part04_02_dl_mnist/01C_DL_Intro_2001_v10.pdf
+https://ldjwj.github.io/DL_Basic/part04_02_dl_mnist/ch01_00_NeuralNet_wColab.pdf
+- MNIST 데이터 셋을 활용한 딥러닝 모델 구현
+https://ldjwj.github.io/DL_Basic/part04_02_dl_mnist/ch01_04_DL_mnist01_firstmodel.html
+
+ToDo
+- 증권분석 강의 듣고 정리하기 
